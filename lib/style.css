@@ -1,4 +1,47 @@
 nav{
-    color:teal;
-    border: black 1px;
+    margin:auto;
+    height:5%;
+    width:60%;
+    padding:10px;
+    border-style:solid;
+    background-color:turquoise;
+    border-color:white;
+    border:5px;
+    font-size:xx-large;
+}
+
+img{
+    width:80%;
+    height:80%;
+}
+
+body{
+    background-image:url("Welcome.png");
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:100vh;
+}
+
+#passage{
+    height:75%;
+    margin:auto;
+    width:60%;
+    padding:10px;
+    border-style:solid;
+    background-color:turquoise;
+    border-color:white;
+    border:51px;
+}
+
+#title{
+    margin:auto;
+    height:10%;
+    width:60%;
+    padding:10px;
+    border-style:solid;
+    background-color:teal;
+    font-size:xx-large;
+    border-color:white;
+    border:5px;
 }
